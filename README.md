@@ -2,8 +2,7 @@
   
 ### Mes Trophées GitHub (Stats & Langages)
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=VasicIvann&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?VasicIvann=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 --- 
 
 ### Autres infos (Optionnel : Remplis avec ton texte)
